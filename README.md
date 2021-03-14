@@ -6,6 +6,10 @@ Move &amp; Deploy your PaperMC server with current settings. Tested on Ubuntu 20
 If you have a backup of your PaperMC server, and want to move it on other providers(Ubuntu VM's recommended), you can use this script.
 Also, it creates service that will run minecraft server as service.
 
+# How do i run this and try ?
+
+Clone this repo, insert your server backup zip link in the install-start.sh. Run the install-start.sh script and you are done.
+
 # What does this script do ?
 
 Creates an account for server, (named minecraft), and this acc owns the data.
