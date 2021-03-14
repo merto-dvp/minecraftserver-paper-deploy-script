@@ -10,6 +10,8 @@ Also, it creates service that will run minecraft server as service.
 
 Clone this repo, insert your server backup zip link in the install-start.sh. Run the install-start.sh script and you are done.
 
+       sudo bash install-start.sh 
+
 # What does this script do ?
 
 Creates an account for server, (named minecraft), and this acc owns the data.
@@ -37,14 +39,14 @@ You can login to minecraft account with su - minecraft.
 But at first you need to change password of that account.
 While you are root, or go get the rights and change password with
 
-sudo passwd minecraft
+    sudo passwd minecraft
 
 And change password of that account.
 
 After that do these steps:
 
-su - minecraft (Login to minecraft account)
-screen -r
+    su - minecraft (Login to minecraft account)
+    screen -r
 
 
 
