@@ -31,7 +31,7 @@ Enables the service minecraft@survival.
 
 You can login to minecraft account with su - minecraft.
 But at first you need to change password of that account.
-While youre root, or not get the rights and change password with
+While you are root, or go get the rights and change password with
 
 sudo passwd minecraft
 
