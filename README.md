@@ -1,4 +1,4 @@
-# minecraftserver-paper-deploy-script
+# Minecraft Server - PaperMC Deployment Script
 Move &amp; Deploy your PaperMC server with current settings. Tested on Ubuntu 20.04 (AWS, Azure)
 
 # First of all, Why ?
