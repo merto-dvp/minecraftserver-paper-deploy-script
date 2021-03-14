@@ -19,6 +19,15 @@ After editing & adding download link
       
        sudo bash minecraftserver-paper-deploy-script/install-start.sh 
 
+Change password of minecraft user:
+
+       sudo passwd minecraft
+
+Login to minecraft user & check server logs:
+
+       su - minecraft
+       screen -r
+       
 # What does this script do ?
 
 Creates an account for server, (named minecraft), and this acc owns the data.
