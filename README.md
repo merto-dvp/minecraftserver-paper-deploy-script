@@ -10,7 +10,7 @@ Also, it creates service that will run minecraft server as service.
 
 Clone this repo, insert your server backup zip link in the install-start.sh. Run the install-start.sh script and you are done.
 
-       sudo bash install-start.sh 
+       git clone https://github.com/merto-dvp/minecraftserver-paper-deploy-script & cdminecraftserver-paper-deploy-script & sudo bash install-start.sh 
 
 # What does this script do ?
 
